@@ -1,0 +1,267 @@
+{ 
+  "fleet": { 
+    "types": [ 
+      { 
+        "id": "RamcoVehicle", 
+        "profile": "truck", 
+        "costs": { 
+          "fixed": 5.0, 
+          "distance": 0.007, 
+          "time": 0.05
+        }, 
+        "shifts": [ 
+          { 
+            "start": { 
+              "time": "2025-05-23T08:03:00Z", 
+              "location": { 
+                "lat": -37.8064036, 
+                "lng": 144.7494535 
+              } 
+            }, 
+            "end": { 
+              "time": "2025-05-25T08:03:00Z",   
+              "location": { 
+			
+                "lat": -37.8064036,  
+                "lng": 144.7494535 
+              } 
+            } 
+          } 
+        ], 
+        "capacity": [ 
+          50 
+        ], 
+        "amount": 2 
+      } 
+    ], 
+    "profiles": [ 
+      { 
+        "type": "truck", 
+        "name": "truck" 
+      } 
+    ] 
+  }, 
+  "plan": { 
+    "jobs": [ 
+      { 
+        "id": "BR000415454", 
+        "tasks": { 
+          "deliveries": [ 
+            { 
+              "places": [ 
+                { 
+                  "location": { 
+                    "lat": -27.573946, 
+                    "lng": 152.963335 
+                  }, 
+                  "duration": 900 
+                } 
+              ], 
+              "demand": [ 
+                10 
+              ] 
+            } 
+          ] 
+        } 
+      }, 
+	  { 
+        "id": "BR000384435", 
+        "tasks": { 
+          "deliveries": [ 
+            { 
+              "places": [ 
+                { 
+                  "location": { 
+                    "lat": -27.573946, 
+                    "lng": 152.963335 
+                  }, 
+                  "duration": 900 
+                } 
+              ], 
+              "demand": [ 
+                10 
+              ] 
+            } 
+          ] 
+        } 
+      },
+	  { 
+        "id": "BR000387390", 
+        "tasks": { 
+          "deliveries": [ 
+            { 
+              "places": [ 
+                { 
+                  "location": { 
+                    "lat": -27.1795733, 
+                    "lng": 153.0188221 	
+
+                  }, 
+                  "duration": 900 
+                } 
+              ], 
+              "demand": [ 
+                10 
+              ] 
+            } 
+          ] 
+        } 
+      },
+	  { 
+        "id": "BR000141515", 
+        "tasks": { 
+          "deliveries": [ 
+            { 
+              "places": [ 
+                { 
+                  "location": { 
+                    "lat": -27.5649277,  	
+                    "lng": 153.0260262 
+                  }, 
+                  "duration": 900 
+                } 
+              ], 
+              "demand": [ 
+                10 
+              ] 
+            } 
+          ] 
+        } 
+      },
+	  { 
+        "id": "BR000376419", 
+        "tasks": { 
+          "deliveries": [ 
+            { 
+              "places": [ 
+                { 
+                  "location": { 
+                    "lat": -27.5677484,  
+                    "lng": 153.0201515 
+                  }, 
+                  "duration": 900 
+                } 
+              ], 
+              "demand": [ 
+                10 
+              ] 
+            } 
+          ] 
+        } 
+      },
+	  { 
+        "id": "BR000389830", 
+        "tasks": { 
+          "deliveries": [ 
+            { 
+              "places": [ 
+                { 
+                  "location": { 
+                    "lat": -27.1795733, 
+                    "lng": 153.0188221  	
+
+                  }, 
+                  "duration": 900 
+                } 
+              ], 
+              "demand": [ 
+                10 
+              ] 
+            } 
+          ] 
+        } 
+      },
+	  
+	  { 
+        "id": "BR000350880", 
+        "tasks": { 
+          "deliveries": [ 
+            { 
+              "places": [ 
+                { 
+                  "location": { 
+                    "lat": -23.3884261, 
+                    "lng": 150.5025251  	
+
+                  }, 
+                  "duration": 900 
+                } 
+              ], 
+              "demand": [ 
+                10 
+              ] 
+            } 
+          ] 
+        } 
+      },
+	  { 
+        "id": "BR000376018", 
+        "tasks": { 
+          "deliveries": [ 
+            { 
+              "places": [ 
+                { 
+                  "location": { 
+                    "lat": -27.7375048, 
+                    "lng": 153.2396376 
+                  }, 
+                  "duration": 900  	
+
+                } 
+              ], 
+              "demand": [ 
+                10 
+              ] 
+            } 
+          ] 
+        } 
+      },
+	  { 
+        "id": "BR000376029", 
+        "tasks": { 
+          "deliveries": [ 
+            { 
+              "places": [ 
+                { 
+                  "location": { 
+                    "lat": -27.4329218, 
+                    "lng": 153.1069338  	
+
+                  }, 
+                  "duration": 900 
+                } 
+              ], 
+              "demand": [ 
+                10 
+              ] 
+            } 
+          ] 
+        } 
+      },
+	  
+	  { 
+        "id": "BR000306023", 
+        "tasks": { 
+          "deliveries": [ 
+            { 
+              "places": [ 
+                { 
+                  "location": { 
+                    "lat": -32.2460258, 
+                    "lng": 148.6313504  	
+
+                  }, 
+                  "duration": 900 
+                } 
+              ], 
+              "demand": [ 
+                10 
+              ] 
+            } 
+          ] 
+        } 
+      }
+      
+    ] 
+  } 
+} 
