@@ -60,6 +60,22 @@
                 1
               ]
             }
+          ],
+	  "deliveries": [
+            {
+              "places": [
+                {
+                  "location": {
+                    "lat": -27.4332179,
+                    "lng": 153.0922118
+                  },
+                  "duration": 1020
+                }
+              ],
+              "demand": [
+                1
+              ]
+            }
           ]
         }
       },
@@ -75,6 +91,22 @@
                     "lng": 144.708147
                   },
                   "duration": 840
+                }
+              ],
+              "demand": [
+                1
+              ]
+            }
+          ],
+	  "deliveries": [
+            {
+              "places": [
+                {
+                  "location": {
+                    "lat": -32.2460258,
+                    "lng": 148.6313504
+                  },
+                  "duration": 1020
                 }
               ],
               "demand": [
@@ -293,49 +325,8 @@
             }
           ]
         }
-      },
-      {
-        "id": "BR_PUD_delivery",
-        "tasks": {
-          "deliveries": [
-            {
-              "places": [
-                {
-                  "location": {
-                    "lat": -27.4332179,
-                    "lng": 153.0922118
-                  },
-                  "duration": 1020
-                }
-              ],
-              "demand": [
-                1
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "id": "BR_PUD_delivery2",
-        "tasks": {
-          "deliveries": [
-            {
-              "places": [
-                {
-                  "location": {
-                    "lat": -32.2460258,
-                    "lng": 148.6313504
-                  },
-                  "duration": 1020
-                }
-              ],
-              "demand": [
-                1
-              ]
-            }
-          ]
-        }
       }
+      
     ]
   }
 }
