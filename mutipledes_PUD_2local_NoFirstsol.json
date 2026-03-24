@@ -1,0 +1,550 @@
+{
+    "statistic": {
+        "cost": 70756.846,
+        "distance": 7817778,
+        "duration": 320448,
+        "times": {
+            "driving": 307728,
+            "serving": 12720,
+            "waiting": 0,
+            "stopping": 0,
+            "break": 0,
+            "intraStop": 0
+        },
+        "intraStopDistance": 0
+    },
+    "tours": [
+        {
+            "vehicleId": "RamcoVehicle_1",
+            "typeId": "RamcoVehicle",
+            "stops": [
+                {
+                    "time": {
+                        "arrival": "2025-05-23T08:03:00Z",
+                        "departure": "2025-05-23T08:03:00Z"
+                    },
+                    "load": [
+                        52
+                    ],
+                    "activities": [
+                        {
+                            "jobId": "departure",
+                            "type": "departure",
+                            "location": {
+                                "lat": -37.8064036,
+                                "lng": 144.7494535
+                            },
+                            "time": {
+                                "start": "2025-05-23T08:03:00Z",
+                                "end": "2025-05-23T08:03:00Z",
+                                "arrival": "2025-05-23T08:03:00Z"
+                            }
+                        }
+                    ],
+                    "location": {
+                        "lat": -37.8064036,
+                        "lng": 144.7494535
+                    },
+                    "distance": 0
+                },
+                {
+                    "time": {
+                        "arrival": "2025-05-24T05:27:36Z",
+                        "departure": "2025-05-24T05:42:36Z"
+                    },
+                    "load": [
+                        42
+                    ],
+                    "activities": [
+                        {
+                            "jobId": "BR000350880",
+                            "type": "delivery",
+                            "location": {
+                                "lat": -23.3884261,
+                                "lng": 150.5025251
+                            },
+                            "time": {
+                                "start": "2025-05-24T05:27:36Z",
+                                "end": "2025-05-24T05:42:36Z",
+                                "arrival": "2025-05-24T05:27:36Z"
+                            }
+                        }
+                    ],
+                    "location": {
+                        "lat": -23.3884261,
+                        "lng": 150.5025251
+                    },
+                    "distance": 1979321
+                },
+                {
+                    "time": {
+                        "arrival": "2025-05-24T12:05:12Z",
+                        "departure": "2025-05-24T12:35:12Z"
+                    },
+                    "load": [
+                        22
+                    ],
+                    "activities": [
+                        {
+                            "jobId": "BR000389830",
+                            "type": "delivery",
+                            "location": {
+                                "lat": -27.1795733,
+                                "lng": 153.0188221
+                            },
+                            "time": {
+                                "start": "2025-05-24T12:05:12Z",
+                                "end": "2025-05-24T12:20:12Z",
+                                "arrival": "2025-05-24T12:05:12Z"
+                            }
+                        },
+                        {
+                            "jobId": "BR000387390",
+                            "type": "delivery",
+                            "location": {
+                                "lat": -27.1795733,
+                                "lng": 153.0188221
+                            },
+                            "time": {
+                                "start": "2025-05-24T12:20:12Z",
+                                "end": "2025-05-24T12:35:12Z",
+                                "arrival": "2025-05-24T12:20:12Z"
+                            }
+                        }
+                    ],
+                    "location": {
+                        "lat": -27.1795733,
+                        "lng": 153.0188221
+                    },
+                    "distance": 2576392
+                },
+                {
+                    "time": {
+                        "arrival": "2025-05-24T13:05:54Z",
+                        "departure": "2025-05-24T13:22:54Z"
+                    },
+                    "load": [
+                        21
+                    ],
+                    "activities": [
+                        {
+                            "jobId": "BR_PUD_delivery",
+                            "type": "delivery",
+                            "location": {
+                                "lat": -27.4332179,
+                                "lng": 153.0922118
+                            },
+                            "time": {
+                                "start": "2025-05-24T13:05:54Z",
+                                "end": "2025-05-24T13:22:54Z",
+                                "arrival": "2025-05-24T13:05:54Z"
+                            }
+                        }
+                    ],
+                    "location": {
+                        "lat": -27.4332179,
+                        "lng": 153.0922118
+                    },
+                    "distance": 2615137
+                },
+                {
+                    "time": {
+                        "arrival": "2025-05-24T13:26:17Z",
+                        "departure": "2025-05-24T13:41:17Z"
+                    },
+                    "load": [
+                        11
+                    ],
+                    "activities": [
+                        {
+                            "jobId": "BR000376029",
+                            "type": "delivery",
+                            "location": {
+                                "lat": -27.4329218,
+                                "lng": 153.1069338
+                            },
+                            "time": {
+                                "start": "2025-05-24T13:26:17Z",
+                                "end": "2025-05-24T13:41:17Z",
+                                "arrival": "2025-05-24T13:26:17Z"
+                            }
+                        }
+                    ],
+                    "location": {
+                        "lat": -27.4329218,
+                        "lng": 153.1069338
+                    },
+                    "distance": 2617477
+                },
+                {
+                    "time": {
+                        "arrival": "2025-05-24T14:12:06Z",
+                        "departure": "2025-05-24T14:27:06Z"
+                    },
+                    "load": [
+                        1
+                    ],
+                    "activities": [
+                        {
+                            "jobId": "BR000376018",
+                            "type": "delivery",
+                            "location": {
+                                "lat": -27.7375048,
+                                "lng": 153.2396376
+                            },
+                            "time": {
+                                "start": "2025-05-24T14:12:06Z",
+                                "end": "2025-05-24T14:27:06Z",
+                                "arrival": "2025-05-24T14:12:06Z"
+                            }
+                        }
+                    ],
+                    "location": {
+                        "lat": -27.7375048,
+                        "lng": 153.2396376
+                    },
+                    "distance": 2660034
+                },
+                {
+                    "time": {
+                        "arrival": "2025-05-24T23:49:59Z",
+                        "departure": "2025-05-25T00:06:59Z"
+                    },
+                    "load": [
+                        0
+                    ],
+                    "activities": [
+                        {
+                            "jobId": "BR_PUD_delivery2",
+                            "type": "delivery",
+                            "location": {
+                                "lat": -32.2460258,
+                                "lng": 148.6313504
+                            },
+                            "time": {
+                                "start": "2025-05-24T23:49:59Z",
+                                "end": "2025-05-25T00:06:59Z",
+                                "arrival": "2025-05-24T23:49:59Z"
+                            }
+                        }
+                    ],
+                    "location": {
+                        "lat": -32.2460258,
+                        "lng": 148.6313504
+                    },
+                    "distance": 3530520
+                },
+                {
+                    "time": {
+                        "arrival": "2025-05-25T09:32:06Z",
+                        "departure": "2025-05-25T09:46:06Z"
+                    },
+                    "load": [
+                        1
+                    ],
+                    "activities": [
+                        {
+                            "jobId": "BR_PUD_pickup",
+                            "type": "pickup",
+                            "location": {
+                                "lat": -37.9392212,
+                                "lng": 145.1384587
+                            },
+                            "time": {
+                                "start": "2025-05-25T09:32:06Z",
+                                "end": "2025-05-25T09:46:06Z",
+                                "arrival": "2025-05-25T09:32:06Z"
+                            }
+                        }
+                    ],
+                    "location": {
+                        "lat": -37.9392212,
+                        "lng": 145.1384587
+                    },
+                    "distance": 4384217
+                },
+                {
+                    "time": {
+                        "arrival": "2025-05-25T10:32:57Z",
+                        "departure": "2025-05-25T10:46:57Z"
+                    },
+                    "load": [
+                        2
+                    ],
+                    "activities": [
+                        {
+                            "jobId": "BR_PUD_pickup2",
+                            "type": "pickup",
+                            "location": {
+                                "lat": -37.9437668,
+                                "lng": 144.708147
+                            },
+                            "time": {
+                                "start": "2025-05-25T10:32:57Z",
+                                "end": "2025-05-25T10:46:57Z",
+                                "arrival": "2025-05-25T10:32:57Z"
+                            }
+                        }
+                    ],
+                    "location": {
+                        "lat": -37.9437668,
+                        "lng": 144.708147
+                    },
+                    "distance": 4442712
+                },
+                {
+                    "time": {
+                        "arrival": "2025-05-25T11:08:10Z",
+                        "departure": "2025-05-25T11:08:10Z"
+                    },
+                    "load": [
+                        0
+                    ],
+                    "activities": [
+                        {
+                            "jobId": "arrival",
+                            "type": "arrival",
+                            "location": {
+                                "lat": -37.8064036,
+                                "lng": 144.7494535
+                            },
+                            "time": {
+                                "start": "2025-05-25T11:08:10Z",
+                                "end": "2025-05-25T11:08:10Z",
+                                "arrival": "2025-05-25T11:08:10Z"
+                            }
+                        }
+                    ],
+                    "location": {
+                        "lat": -37.8064036,
+                        "lng": 144.7494535
+                    },
+                    "distance": 4462955
+                }
+            ],
+            "statistic": {
+                "cost": 40441.185,
+                "distance": 4462955,
+                "duration": 183910,
+                "times": {
+                    "driving": 175690,
+                    "serving": 8220,
+                    "waiting": 0,
+                    "stopping": 0,
+                    "break": 0,
+                    "intraStop": 0
+                },
+                "intraStopDistance": 0
+            },
+            "shiftIndex": 0
+        },
+        {
+            "vehicleId": "RamcoVehicle_2",
+            "typeId": "RamcoVehicle",
+            "stops": [
+                {
+                    "time": {
+                        "arrival": "2025-05-23T08:03:00Z",
+                        "departure": "2025-05-23T08:03:00Z"
+                    },
+                    "load": [
+                        50
+                    ],
+                    "activities": [
+                        {
+                            "jobId": "departure",
+                            "type": "departure",
+                            "location": {
+                                "lat": -37.8064036,
+                                "lng": 144.7494535
+                            },
+                            "time": {
+                                "start": "2025-05-23T08:03:00Z",
+                                "end": "2025-05-23T08:03:00Z",
+                                "arrival": "2025-05-23T08:03:00Z"
+                            }
+                        }
+                    ],
+                    "location": {
+                        "lat": -37.8064036,
+                        "lng": 144.7494535
+                    },
+                    "distance": 0
+                },
+                {
+                    "time": {
+                        "arrival": "2025-05-23T17:04:03Z",
+                        "departure": "2025-05-23T17:19:03Z"
+                    },
+                    "load": [
+                        40
+                    ],
+                    "activities": [
+                        {
+                            "jobId": "BR000306023",
+                            "type": "delivery",
+                            "location": {
+                                "lat": -32.2460258,
+                                "lng": 148.6313504
+                            },
+                            "time": {
+                                "start": "2025-05-23T17:04:03Z",
+                                "end": "2025-05-23T17:19:03Z",
+                                "arrival": "2025-05-23T17:04:03Z"
+                            }
+                        }
+                    ],
+                    "location": {
+                        "lat": -32.2460258,
+                        "lng": 148.6313504
+                    },
+                    "distance": 827458
+                },
+                {
+                    "time": {
+                        "arrival": "2025-05-24T02:36:36Z",
+                        "departure": "2025-05-24T02:51:36Z"
+                    },
+                    "load": [
+                        30
+                    ],
+                    "activities": [
+                        {
+                            "jobId": "BR000141515",
+                            "type": "delivery",
+                            "location": {
+                                "lat": -27.5649277,
+                                "lng": 153.0260262
+                            },
+                            "time": {
+                                "start": "2025-05-24T02:36:36Z",
+                                "end": "2025-05-24T02:51:36Z",
+                                "arrival": "2025-05-24T02:36:36Z"
+                            }
+                        }
+                    ],
+                    "location": {
+                        "lat": -27.5649277,
+                        "lng": 153.0260262
+                    },
+                    "distance": 1679549
+                },
+                {
+                    "time": {
+                        "arrival": "2025-05-24T02:54:40Z",
+                        "departure": "2025-05-24T03:09:40Z"
+                    },
+                    "load": [
+                        20
+                    ],
+                    "activities": [
+                        {
+                            "jobId": "BR000376419",
+                            "type": "delivery",
+                            "location": {
+                                "lat": -27.5677484,
+                                "lng": 153.0201515
+                            },
+                            "time": {
+                                "start": "2025-05-24T02:54:40Z",
+                                "end": "2025-05-24T03:09:40Z",
+                                "arrival": "2025-05-24T02:54:40Z"
+                            }
+                        }
+                    ],
+                    "location": {
+                        "lat": -27.5677484,
+                        "lng": 153.0201515
+                    },
+                    "distance": 1680554
+                },
+                {
+                    "time": {
+                        "arrival": "2025-05-24T03:24:49Z",
+                        "departure": "2025-05-24T03:54:49Z"
+                    },
+                    "load": [
+                        0
+                    ],
+                    "activities": [
+                        {
+                            "jobId": "BR000384435",
+                            "type": "delivery",
+                            "location": {
+                                "lat": -27.573946,
+                                "lng": 152.963335
+                            },
+                            "time": {
+                                "start": "2025-05-24T03:24:49Z",
+                                "end": "2025-05-24T03:39:49Z",
+                                "arrival": "2025-05-24T03:24:49Z"
+                            }
+                        },
+                        {
+                            "jobId": "BR000415454",
+                            "type": "delivery",
+                            "location": {
+                                "lat": -27.573946,
+                                "lng": 152.963335
+                            },
+                            "time": {
+                                "start": "2025-05-24T03:39:49Z",
+                                "end": "2025-05-24T03:54:49Z",
+                                "arrival": "2025-05-24T03:39:49Z"
+                            }
+                        }
+                    ],
+                    "location": {
+                        "lat": -27.573946,
+                        "lng": 152.963335
+                    },
+                    "distance": 1690498
+                },
+                {
+                    "time": {
+                        "arrival": "2025-05-24T21:58:38Z",
+                        "departure": "2025-05-24T21:58:38Z"
+                    },
+                    "load": [
+                        0
+                    ],
+                    "activities": [
+                        {
+                            "jobId": "arrival",
+                            "type": "arrival",
+                            "location": {
+                                "lat": -37.8064036,
+                                "lng": 144.7494535
+                            },
+                            "time": {
+                                "start": "2025-05-24T21:58:38Z",
+                                "end": "2025-05-24T21:58:38Z",
+                                "arrival": "2025-05-24T21:58:38Z"
+                            }
+                        }
+                    ],
+                    "location": {
+                        "lat": -37.8064036,
+                        "lng": 144.7494535
+                    },
+                    "distance": 3354823
+                }
+            ],
+            "statistic": {
+                "cost": 30315.661000000004,
+                "distance": 3354823,
+                "duration": 136538,
+                "times": {
+                    "driving": 132038,
+                    "serving": 4500,
+                    "waiting": 0,
+                    "stopping": 0,
+                    "break": 0,
+                    "intraStop": 0
+                },
+                "intraStopDistance": 0
+            },
+            "shiftIndex": 0
+        }
+    ]
+}
